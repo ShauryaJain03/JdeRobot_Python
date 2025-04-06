@@ -37,7 +37,7 @@ This repository has the Python code for a simulation that visualizes Brownian mo
 Run the simulation
 
    ```sh
-   python simulate.py
+   python3 simulate.py
    ```
 ### Demo
 
