@@ -17,8 +17,8 @@ A Python simulation that visualizes Brownian motion by modeling a robot (particl
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/username/brownian-motion-simulation.git
-   cd brownian-motion-simulation
+   git clone git@github.com:ShauryaJain03/JdeRobot_Python.git
+   cd JdeRobot_Python
    ```
    
 2. Install dependencies
