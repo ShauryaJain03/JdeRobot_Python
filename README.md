@@ -1,5 +1,5 @@
-## JdeRobot GSoC 2025 Python Test
-A Python simulation that visualizes Brownian motion by modeling a robot (particle) moving randomly within a confined arena, using Python Standard Library and Numpy, Matplotlib for visualization.
+## JdeRobot GSoC 2025
+This repository has the Python code for a simulation that visualizes Brownian motion by modeling a robot (particle) moving randomly within a confined arena, using Python Standard Library and Numpy, Matplotlib for visualization as a part of JdeRobot's GSoC 2025 Python Test.
 
 ### Features
 - Real-time visualization of Brownian motion using matplotlib
