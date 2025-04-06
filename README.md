@@ -7,6 +7,12 @@ A Python simulation that visualizes Brownian motion by modeling a robot (particl
 - Physics-based model of particle movement and collision
 - Interactive animation of the particle's trajectory
 
+### Requirements
+
+- Python 3.6+
+- NumPy
+- Matplotlib
+
 ### Code Structure
 
 - main.py: Contains the visualization setup and simulation loop
